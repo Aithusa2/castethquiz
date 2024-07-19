@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of The Boys series.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who leads The Boys?",
+      "answers": ["Butcher", "Hughie", "MM"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Compound V?",
+      "answers": ["Drug", "Tech", "Weapon"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Homelander's power?",
+      "answers": ["Laser", "Speed", "Fly"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Starlight's real name?",
+      "answers": ["Annie", "Erin", "Kimiko"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Queen Maeve's ability?",
+      "answers": ["Strength", "Invis", "Tech"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "A-Train's speed?",
+      "answers": ["Fast", "Normal", "Slow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "The Deep's specialty?",
+      "answers": ["Ocean", "Land", "Sky"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Black Noir's skill?",
+      "answers": ["Silent", "Loud", "Slow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Madelyn's position?",
+      "answers": ["VP", "CEO", "CFO"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Butcher's revenge target?",
+      "answers": ["Vought", "CIA", "FBI"],
       "correctAnswerIndex": 0
     }
   ]
